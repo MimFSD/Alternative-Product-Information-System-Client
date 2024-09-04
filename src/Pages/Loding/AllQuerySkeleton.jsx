@@ -63,6 +63,8 @@ const AllQuerySkeleton = ({ crt, h, w }) => {
   );
 };
 
+
+
 export default AllQuerySkeleton;
 AllQuerySkeleton.propTypes = {
   crt: PropTypes.array,

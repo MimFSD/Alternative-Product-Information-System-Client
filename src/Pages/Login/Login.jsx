@@ -14,11 +14,9 @@ import useAxiosSec from '../../Hooks/useAxiosSec';
 import { ImSpinner9 } from 'react-icons/im';
 
 const Login = () => {
-  // Naviget, login done then go to Home
   const naviget = useNavigate();
   const location = useLocation();
   const axiosSecu = useAxiosSec();
-  // console.log(location);
   const [eye, setEye] = useState(false);
   const isValidEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   const [emailErr, setEmailErr] = useState(null);

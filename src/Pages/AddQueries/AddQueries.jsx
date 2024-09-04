@@ -21,8 +21,9 @@ const AddQueries = () => {
     day: '2-digit',
     hour: '2-digit',
     minute: '2-digit',
-    hour12: true, 
+    hour12: true, // Include AM/PM indicator
   });
+  // console.log(dateTime); // Output: 11/05/2024 11:42 PM (assuming current Bangladesh time)
   const { userDta } = useAuth();
   const queryClient = useQueryClient();
 
@@ -72,6 +73,7 @@ const AddQueries = () => {
         imgUrl
       );
       const productImage = data.data.display_url;
+      // console.log(productImage);
 
       const formData = {
         productName,
