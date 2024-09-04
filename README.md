@@ -53,13 +53,5 @@ The Alternative Product Information System is a comprehensive solution built wit
 - Upload and edit product data in bulk as needed.
 - Monitor real-time notifications and inventory levels.
 
-## Contributing
-Feel free to contribute by submitting pull requests or opening issues. For detailed guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the sections and content to fit your project’s specific details!
 
