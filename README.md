@@ -4,7 +4,6 @@ Welcome to the Alternative Product Information System project! This project allo
 
 ## Live Link
 
-[Visit the Live Website](https://altquery.web.app/)
 
 ## Key Features
 
