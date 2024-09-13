@@ -2,7 +2,8 @@
 
 Welcome to the Alternative Product Information System project! This project allows users to share and find alternatives to products they are dissatisfied with. Users can post pictures, names, and brands of products they dislike, and other users can recommend better alternatives. The website provides a robust system for filtering and viewing posts dynamically, ensuring a user-friendly experience.
 
-## Live Link
+<!-- [Next-Generation Product Catalog and Data Integration Hub](https://altquery.web.app/)  -->
+
 
 
 ## Key Features
