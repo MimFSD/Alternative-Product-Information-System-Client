@@ -1,14 +1,10 @@
-# Next-Generation Product Catalog and Data Integration Hub
+# Alternative Product Information System
 
-Welcome to the Next-Generation Product Catalog and Data Integration Hub  project! This project allows users to share and find alternatives to products they are dissatisfied with. Users can post pictures, names, and brands of products they dislike, and other users can recommend better alternatives. The website provides a robust system for filtering and viewing posts dynamically, ensuring a user-friendly experience.
+Welcome to the Alternative Product Information System project! This project allows users to share and find alternatives to products they are dissatisfied with. Users can post pictures, names, and brands of products they dislike, and other users can recommend better alternatives. The website provides a robust system for filtering and viewing posts dynamically, ensuring a user-friendly experience.
 
-<<<<<<< HEAD
 <!-- [Next-Generation Product Catalog and Data Integration Hub](https://altquery.web.app/)  -->
 
 
-=======
-//[Next-Generation Product Catalog and Data Integration Hub](https://altquery.web.app/) 
->>>>>>> eeb772a397e72292dc53285b88aaea3594b31e56
 
 ## Key Features
 
@@ -23,8 +19,7 @@ Welcome to the Next-Generation Product Catalog and Data Integration Hub  project
 - **React**: For building the user interface.
 - **React Router DOM**: For client-side routing.
 - **TanStack React Query**: For data fetching and synchronization.
-- **Axios**: For HTTP Request and data fetching.
-- **Flowbite React**: For UI components.
+
 - **Material UI**: For responsive design and components.
 - **NavigateUI**: For navigation components.
 - **SweetAlert**: For elegant alert messages.
