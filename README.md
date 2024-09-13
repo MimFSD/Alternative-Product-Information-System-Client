@@ -1,10 +1,14 @@
-# Alternative Product Information System
+# Next-Generation Product Catalog and Data Integration Hub
 
-Welcome to the Alternative Product Information System project! This project allows users to share and find alternatives to products they are dissatisfied with. Users can post pictures, names, and brands of products they dislike, and other users can recommend better alternatives. The website provides a robust system for filtering and viewing posts dynamically, ensuring a user-friendly experience.
+Welcome to the Next-Generation Product Catalog and Data Integration Hub  project! This project allows users to share and find alternatives to products they are dissatisfied with. Users can post pictures, names, and brands of products they dislike, and other users can recommend better alternatives. The website provides a robust system for filtering and viewing posts dynamically, ensuring a user-friendly experience.
 
+<<<<<<< HEAD
 <!-- [Next-Generation Product Catalog and Data Integration Hub](https://altquery.web.app/)  -->
 
 
+=======
+//[Next-Generation Product Catalog and Data Integration Hub](https://altquery.web.app/) 
+>>>>>>> eeb772a397e72292dc53285b88aaea3594b31e56
 
 ## Key Features
 
