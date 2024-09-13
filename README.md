@@ -5,7 +5,6 @@ Welcome to the Alternative Product Information System project! This project allo
 <!-- [Next-Generation Product Catalog and Data Integration Hub](https://altquery.web.app/)  -->
 
 
-
 ## Key Features
 
 - **User Product Query Posting**: Users can post pictures and details (name, brand, query) of products they do not like.
@@ -53,7 +52,7 @@ The project is structured to ensure clarity and maintainability. Here’s an ove
 1. Clone the repository:
 
    ```
-   git clone https://github.com/ataullah1/Alternative-Product-Information-System-Client.git
+   git clone url
    ```
 
 2. file derectory:
@@ -75,20 +74,4 @@ The project is structured to ensure clarity and maintainability. Here’s an ove
 
    ```
 
-## Contact me
 
-### Email
-
-[Click here to email](mailto:ataullahm100@gmail.com?subject=Hello%20Ataullah)
-
-### Follow on GitHub
-
-[Link to GitHub Profile](https://github.com/ataullah1)
-
-### Follow on Facebook
-
-[Link to Facebook Profile](https://www.facebook.com/ataullah0)
-
-### Follow on Twitter
-
-[Link to Twitter Profile](https://twitter.com/dev_ataullah)
