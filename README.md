@@ -28,7 +28,7 @@ Welcome to the Alternative Product Information System project! This project allo
 - **MongoDB**: For the database.
 - **Express.js**: For the backend server.
 - **Node.js**: For server-side JavaScript runtime.
-
+<hr>
 ## Device Responsiveness
 
 The website is designed to be fully responsive, ensuring optimal viewing and interaction experience across all devices, including desktops, tablets, and smartphones. It utilizes responsive design principles and frameworks such as Material UI to adapt to different screen sizes and resolutions seamlessly.
